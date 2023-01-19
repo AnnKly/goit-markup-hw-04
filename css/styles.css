@@ -400,7 +400,7 @@ body {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .footer-soc-link:hover,
-.footer-soc-link:hover {
+.footer-soc-link:focus {
   background-color: #31d0aa;
 }
 /*----------PORTFOLIO-----------*/
